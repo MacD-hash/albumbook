@@ -15,7 +15,6 @@
                     @endif
 
                     You are logged in!
-                    sdfsdf
                 </div>
             </div>
         </div>
